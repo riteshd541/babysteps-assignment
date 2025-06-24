@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://babysteps-assignment-dlzz.onrender.com/api";
 
 export const register = async (data) => {
   const res = await fetch(`${API_BASE}/auth/register`, {

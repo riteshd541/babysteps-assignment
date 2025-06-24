@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://babysteps-assignment-dlzz.onrender.com/api";
 
 export const getMilestones = async () => {
   const token = localStorage.getItem("token");
