@@ -69,16 +69,17 @@ PORT=5000
 
 ---
 
-
 ## 🏗 Tech Stack
 
 ### Frontend:
+
 - React.js
 - Tailwind CSS
 - React Router DOM
 - Axios
 
 ### Backend:
+
 - Node.js
 - Express.js
 - MongoDB (via Mongoose)
@@ -88,8 +89,8 @@ PORT=5000
 
 ---
 
-
 ## 💡 How It Works
+
 - User signs up / logs in (JWT stored in localStorage)
 - User can add milestones with title, date, and notes
 - All milestones are visible — filtered by All / My / Community
@@ -99,17 +100,22 @@ PORT=5000
 
 ## 📸 Screenshots
 
-### Login  Page
-![App Screenshot](Assests/login.png)
+### Login Page
+
+![App Screenshot](Assets/login.png)
 
 ### Register Page
+
 ![App Screenshot](Assets/register.png)
 
 ### Dashboard (Add Milestone)
+
 ![App Screenshot](Assets/add-milestone.png)
 
 ### All Milestone
+
 ![App Screenshot](Assets/all-milestone.png)
 
 ### Self Milestone
+
 ![App Screenshot](Assets/all-milestone.png)
